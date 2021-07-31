@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   jitsi_meet_platform_interface:
-    path: ./agora/
+    path: ./ui/
   #jitsi_meet_web_plugin: ^2.0.0
 
 dev_dependencies:
