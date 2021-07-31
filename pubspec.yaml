@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   jitsi_meet_platform_interface:
-    path: ./ui/
+    git:
+      url: https://github.com/iusama46/meet_jitsi_ui.git
   #jitsi_meet_web_plugin: ^2.0.0
 
 dev_dependencies:
